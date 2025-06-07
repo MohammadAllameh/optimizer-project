@@ -1,0 +1,5 @@
+{
+  "name": "AlphaEvolve UI Demo",
+  "description": "A web application demonstrating the user interface for an AI-powered code evolution system, AlphaEvolve. Users can load a sample project, select code transformation tasks for a file, and view AI-generated suggestions using the Gemini API.",
+  "requestFramePermissions": []
+}
